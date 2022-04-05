@@ -71,7 +71,6 @@ class About extends Me {
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sercanradulfr&theme=nord_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sercanradulfr&theme=nord_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sercanradulfr&theme=nord_dark" width="32.5%">
-
   
 </a>
 
