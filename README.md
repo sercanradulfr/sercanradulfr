@@ -68,16 +68,16 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/sercanradulfr">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sercanradulfr&theme=nord_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sercanradulfr&theme=nord_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sercanradulfr&theme=nord_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sercanradulfr&theme=nord_dark." width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sercanradulfr&theme=nord_dark." width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sercanradulfr&theme=nord_dark." width="32.5%">
   
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sercanradulfr&theme=nord_dark" >
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sercanradulfr&theme=nord_dark." >
 
 </details>
 
