@@ -3,8 +3,8 @@
 <img src="https://github.com/sercanradulfr/sercanradulfr/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sercanradulfr" alt="Hello Coders" width="625"/> <br>
 <img src="https://github.com/sercanradulfr/sercanradulfr/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sercanradulfr" alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>Hello , Im sercanradulfr.1nd year Computer Programming student. During day, Assisting
-<br>my father at his shop & Coder at night.
+<p><strong>Hello , Im sercanradulfr.1nd year Computer Programming student. During day, I
+<br> go to the sport & Coder at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/sercanr4dulfr) <br>
