@@ -1,4 +1,4 @@
-<div style="background-image:url('Assets/output (1).png');background-repeat:repeat-x;background-size:auto 4px;height:4px;width:100%;margin-top:20px;"></div>
+<div style="background-image:url('Assets/output (1).png');background-size:auto 4px;height:4px;width:100%;margin-top:20px;"></div>
 
 # 💫About Me :
 Database Programming graduate (high school vocational) | Computer Programming graduate (university) | Cybersecurity certified.
