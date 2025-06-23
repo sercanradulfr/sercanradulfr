@@ -21,7 +21,7 @@ Committed to independent and ethical collaboration — I exclusively work with i
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
-<img src="https://i.ibb.co/ks1xWy7Q/World-Of-Warcraft-Wow-GIF-by-Xbox.gif" width="512px"/>
+<img src="Assets/World Of Warcraft Wow GIF by Xbox.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sercanradulfr&icon=0&color=0)](https://visitcount.itsvg.in)
