@@ -1,4 +1,4 @@
-<img src="Assets/output (1).png" width="512px"/>
+<div style="background-image:url('Assets/output (1).png');background-repeat:repeat-x;background-size:auto 4px;height:4px;width:100%;margin-top:20px;"></div>
 
 # 💫About Me :
 Database Programming graduate (high school vocational) | Computer Programming graduate (university) | Cybersecurity certified.
@@ -28,4 +28,4 @@ Committed to independent and ethical collaboration — I exclusively work with i
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sercanradulfr&style=flat&color=blue&label=Profile+Views)
 
-<img src="Assets/output (1).png" width="512px"/>
+<div style="background-image:url('Assets/output (1).png');background-repeat:repeat-x;background-size:auto 4px;height:4px;width:100%;margin-top:20px;"></div>
