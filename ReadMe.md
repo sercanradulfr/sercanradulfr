@@ -1,4 +1,4 @@
-<img src="Assets/output (1).png" height="124px" width="1024px"/>
+<img src="Assets/output (1).png" height="80px" width="1024px"/>
 
 # 💫About Me :
 Database Programming graduate (high school vocational) | Computer Programming graduate (university) | Cybersecurity certified.
