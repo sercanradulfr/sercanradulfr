@@ -23,5 +23,29 @@ Committed to independent and ethical collaboration — I exclusively work with i
 ### 🧝‍♀️A Gif
 <img src="Assets/World Of Warcraft Wow GIF by Xbox.gif" width="512px"/>
 
+<!-- Yanan ve Kaydıran Yazı -->
+<div align="center">
+  <svg width="100%" height="50" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes slide { 
+        0% { transform: translateX(100%); }
+        100% { transform: translateX(-150%); } 
+      }
+      @keyframes flame {
+        0%,100% { text-shadow: 0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px #e6e6e6; }
+        50% { text-shadow: 0 0 10px #fff,0 0 20px #fff,0 0 30px #fff,0 0 40px #e6e6e6; }
+      }
+      .flaming-text {
+        animation: 
+          slide 12s linear infinite,
+          flame 1.5s ease-in-out infinite alternate;
+        font: bold 24px 'Segoe UI',Arial,sans-serif;
+        fill: white;
+      }
+    </style>
+    <text class="flaming-text" x="100%" y="35">thanks for visiting my profile !</text>
+  </svg>
+</div>
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sercanradulfr&style=flat&color=blue&label=Profile+Views)
