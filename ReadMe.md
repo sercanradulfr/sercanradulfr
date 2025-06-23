@@ -24,6 +24,8 @@ Committed to independent and ethical collaboration — I exclusively work with i
 <img src="Assets/World Of Warcraft Wow GIF by Xbox.gif" width="512px"/>
 
 <!-- Yanan ve Kaydıran Yazı -->
-![Animasyonlu Metin](Assets/flamedwords.svg)
+<div align="center">
+  ![Animasyonlu Metin](Assets/flamedwords.svg)
+</div>
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sercanradulfr&style=flat&color=blue&label=Profile+Views)
