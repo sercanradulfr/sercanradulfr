@@ -20,7 +20,7 @@ Committed to independent and ethical collaboration — I exclusively work with i
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🧝‍♀️
+### 🧝‍♀️A Wow Gif
 <img src="Assets/World Of Warcraft Wow GIF by Xbox.gif" width="512px"/>
 
 ---
