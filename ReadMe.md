@@ -24,4 +24,4 @@ Committed to independent and ethical collaboration — I exclusively work with i
 <img src="Assets/World Of Warcraft Wow GIF by Xbox.gif" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sercanradulfr&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=sercanradulfr&style=flat&color=blue&label=Profile+Views)
