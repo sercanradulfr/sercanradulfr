@@ -20,8 +20,8 @@ Committed to independent and ethical collaboration — I exclusively work with i
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+###
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM2dmlwN2x5bmxocTI4YXZkanhhOHc4a2p1cWVyczc5c3Vrd2ZxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PtAVJlGFRwzPWV2Al6/giphy.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sercanradulfr&icon=0&color=0)](https://visitcount.itsvg.in)
