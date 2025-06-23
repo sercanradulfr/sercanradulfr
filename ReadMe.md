@@ -1,3 +1,5 @@
+<img src="Assets/output (1).png" />
+
 # 💫About Me :
 Database Programming graduate (high school vocational) | Computer Programming graduate (university) | Cybersecurity certified.
 Passionate young developer focused on Game Development.
@@ -25,3 +27,5 @@ Committed to independent and ethical collaboration — I exclusively work with i
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sercanradulfr&style=flat&color=blue&label=Profile+Views)
+
+<img src="Assets/output (1).png" />
